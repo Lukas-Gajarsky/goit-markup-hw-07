@@ -1,0 +1,23 @@
+.staff-name {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    margin-bottom: 10px;
+    color: var(--black-color);
+  }
+  
+  .staff-name_staff-description {
+    font-size: 16px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    color: var(--grey-color);
+    margin-bottom: 16px;
+  }
+  
+  .join-list {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+      flex-wrap: wrap;
+  }
