@@ -1,19 +1,19 @@
-.our-advantages__list {
+.features__list {
     display: flex;
     gap: 30px;
     justify-content: space-between;
     flex-wrap: wrap;
   }
   
-  .our-advantages__item {
+  .features__item {
     flex-basis: 270px;
   }
 
-  .our-advantages__icon{
+  .features__icon{
     width: 70px;
     height: 70px;
   }
-  .our-advantages__block{
+  .features__block{
     display: flex;
     align-items: center;
     justify-content: center;
